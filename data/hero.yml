@@ -1,0 +1,13 @@
+---
+enable: true
+topTitle: Data Scientist
+content: >
+  # Hi I'm Sudhir
+
+  Sudhir helps organizations drive business growth, process automation or solve key financial pain points using data science in 3 months or less.
+buttonName: Contact Sudhir Singh
+buttonIcon: 'fa fa-envelope'
+buttonURL: "#contact"
+image: images/hero/user-picture-1.jpg
+videoThumb: images/hero/data-science.gif
+videoURL: 

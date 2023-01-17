@@ -1,0 +1,20 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## Who is Sudhir?
+
+  Sudhir Singh is a business-forward problem solver with over 15+ years of experience working with companies from all over the world.
+content: >
+  ### I design and build awesome data science products.
+
+  I love helping organization drive business growth. My passion is data science and data engineering. But, when I am not working for my clients, I enjoy having good time with my family and friends.
+  
+  
+  My area of focus is applying data science to business. I create value for companies by understanding the financial cost of problems and delivering a return-on-investment with my solutions. I enjoy learning, working with stakeholders, and making better decisions with data.
+button1Name: LinkedIn
+button2Name: Download CV
+button1Target: https://www.linkedin.com/in/sudhirsinghkumar/
+button2Target: "/cv/resume-sudhir.pdf"
+image: images/hero/user-picture-1.jpg
+imageMaskPosition: 70px 0px

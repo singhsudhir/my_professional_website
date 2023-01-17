@@ -1,0 +1,17 @@
+---
+enable: true
+topTitle: Testimonials
+title: >
+  ## What Do My Colleagues Think of Me?
+
+testimonial:
+  - name: Jennifer Crites
+    title: Chief Information Officer, PostNL 
+    image: "/images/testimonial/jen.jpg"
+    comment: "Sudhir joined my team after completing his MBA and he was a great asset to our IT team. In an environment where we were trying to 'change the face of IT' from being a technical cost-center to a more value-driven strategic leader and partner to the company, Sudhir was instrumental in pushing the needle. Specifically, he was managing our O365 services, focusing specifically on the collaboration tools, like Delve, Yammer, Skype for Business, etc. What I remember most about Sudhir is how his enthusiasm separated him from the rest - especially when engaging our users. At first, he appears timid, but get him in front of a crowd, driving adoption of something he's passionate about, and there's no stopping him! He had the audience laughing, engaged, interested, and leaning forward to learn more and do more with the tools he was delivering to them. It was impressive, to say the least, and certainly a valuable asset to an IT team! Miss working with you, Sudhir!!"
+    star: 5
+  - name: Philippe Coffyn
+    title: Senior VP - Global IT, Randstad
+    image: "/images/testimonial/philippe.jpg"
+    comment: "Both in his role as O365 service manager as well as trainer for Digital Workplace, Sudhir's passion and drive has helped the success of the Digital Workplace Program significantly. He delivered trainings with high appreciation by the users, made the overall user feedback and KPIs very visible and manageable via the PowerBI dashboards, as well as followed up user reactions via the Yammer channel."
+    star: 5

@@ -1,0 +1,74 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Experience & Education
+
+  Over 15+ years of experience working with companies from all over the world.
+
+buttonName: "Download Resume PDF"
+buttonTarget: "/cv/resume-sudhir.pdf"
+
+tab1Name: Experience
+tab2Name: Education
+tab1Target: experience
+tab2Target: education
+
+
+experience:
+  - content: >
+  
+      ### Data Scientist / Data Engineer
+      
+      #### [Rabobank](https://www.rabobank.nl/) 
+      
+      - Identified gaps in the bank’s remote (from abroad) working possibilities in the hindsight of COVID.
+      
+      - As a result, ended up building the app “Working from Abroad” streamlining a complex HR process.
+      
+      - Reduced travel approval lead time by 95%.
+    time: 2021-2022 
+    
+  - content: >
+      ### Hybrid Cloud Sales
+      
+      #### [IBM](https://www.ibm.com/)
+      
+      - A short stint in a pure commercial role at IBM Netherlands.
+      
+      - Learnt and experienced various nuances of an enterprise sales process starting from lead identification to sales closure.
+      
+      - Worked on few important deals (Retail and Industry based clients) in the allocated territory.
+    time: 2019-2021
+    
+  - content: >
+      ### Manager - Digital Workplace & IT Operations 
+
+      #### [FrieslandCampina](https://www.frieslandcampina.com/nl/)
+
+      - Led the initiative to optimize IT operations cost. In the first year, saved €3M through data visualization, IT asset(s) optimization and vendor consolidation. 
+      
+      - Led the global digital workplace (DWP) roll-out for 22000+ employees.
+      
+      - Finished the DWP roll-out before schedule with USAT Score of 8.2(10). A major employee productivity boost of over 30%.
+      
+      - Developed plans for Office 365 Adoption Program & pitched program to Director, Digital Workplace & CIO for buy-in.
+      
+      - In the first year, Cloud Adoption Program saved €2M only through mailbox migration and productivity increase of 20%.
+    time: 2015-2019
+  
+
+
+education:
+  - content: >
+      #### Master of Business Administration (MBA)
+
+      [Nyenrode Business Universiteit](https://www.nyenrode.nl/)
+      
+    time: 2013-2015
+  - content: >
+      #### Bachelor of Electronics & Communication Engineering
+
+      [Visvesvaraya Technological University](https://vtu.ac.in)
+    time: 2001-2005
+  
