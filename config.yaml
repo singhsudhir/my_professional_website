@@ -33,7 +33,7 @@ params:
   contactLink: '#contact'
   copyright: All right reserved copyright © Sudhir Singh 2023 
   footerLogo: images/site-navigation/logo-sudhir.png
-  formspreeURL: YOUR FORMSPREE URL
+  formspreeURL: https://formspree.io/f/xdovkgyv
   googleAnalytics: YOUR GOOGLE ANALYTICS CODE
   logo: images/site-navigation/logo-sudhir.png
   social:
